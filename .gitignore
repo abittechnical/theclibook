@@ -8,3 +8,7 @@ testconfig
 
 # jetbrains
 .idea
+
+# logs
+*.log
+**/log.*
